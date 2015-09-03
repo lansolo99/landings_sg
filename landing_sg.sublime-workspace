@@ -1,0 +1,571 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"content",
+				"content_li"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"CL",
+				"clear"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"ea",
+				"easeOut"
+			],
+			[
+				"back",
+				"background"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "landing_credit_15.html",
+			"settings":
+			{
+				"buffer_size": 63906,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "landing_epargne_16.html",
+			"settings":
+			{
+				"buffer_size": 62267,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "landing_jazz_17.html",
+			"settings":
+			{
+				"buffer_size": 63429,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 14375,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"grun",
+				"Grunt"
+			],
+			[
+				"gr",
+				"Grunt"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Emmet: Balance (inward)"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 219.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/css/style.css",
+		"/C/Users/lansolo99/Downloads/icomoon (1)/style.css",
+		"/C/Users/lansolo99/Downloads/icomoon (1)/demo-files/demo.js",
+		"/C/Users/lansolo99/Downloads/icomoon (1)/demo-files/demo.css",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/landing_jazz_15.html",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/landing_credit_15.html",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/landing_epargne_15.html",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/landing_epargne_01.html",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/landing_jazz_02.html",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/landing_jazz_01.html",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/js/bottin-popin.js",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/archives/index_04.html",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/index_04.html",
+		"/C/Users/lansolo99/Desktop/bottin-popin.js",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/index_14.html",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/index_13.html",
+		"/D/nodejs/helloworld.js",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/index_12.html",
+		"/C/Users/lansolo99/Desktop/style.css",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/index_8.html",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/index_7.html",
+		"/D/DRIVE/00 CURRENT WORKS/MTFBWY/HTML/css/style.css",
+		"/D/DRIVE/00 CURRENT WORKS/MTFBWY/HTML/index16.html",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/img/logo_sg.svg",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/index_6.html",
+		"/C/Users/lansolo99/Desktop/logo_sg_ba-01-01.svg",
+		"/C/Users/lansolo99/Desktop/Société Générale _ Ma banque et moi à l'étranger.html",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/index_5.html",
+		"/C/Users/lansolo99/Downloads/Bottin_SoActif.htm",
+		"/C/Users/lansolo99/AppData/Roaming/Sublime Text 2/Packages/Grunt/SublimeGrunt.sublime-settings",
+		"/C/Users/lansolo99/Desktop/helloworld.js",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/css/style_current.css",
+		"/C/Users/lansolo99/Downloads/CreativeButtons/CreativeButtons/css/component.css",
+		"/C/Users/lansolo99/Downloads/CreativeButtons/CreativeButtons/index.html",
+		"/C/Users/lansolo99/Downloads/bottin-module/bottin-module.html",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/index_3.html",
+		"/C/Users/lansolo99/Desktop/stores.tpl",
+		"/C/Users/lansolo99/Desktop/footer_cms.tpl",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/index_2.html",
+		"/C/Users/lansolo99/Downloads/icomoon/demo.html",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/EPS/logo_so_actif-01.svg",
+		"/C/Users/lansolo99/Downloads/icomoon/style.css",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/SRC/sproutvideo.com/assets/splash-07925733015480a9889c45c90b26ca0a.css",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT L/PIERRE&LISE/HTML/page.html",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT L/PIERRE&LISE/HTML/css/grid.css",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT L/PIERRE&LISE/HTML/css/style.css",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/SRC/landing flexbox/landingPage-master/landingPage-master/generic.html",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/SRC/landing flexbox/landingPage-master/landingPage-master/css/style.css",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/SRC/inte_fnac/switch_fnac.html",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/SRC/inte_fnac/css/switch_fnac.css",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/SRC/inte_fnac/css/switch_fnac_responsive.css",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/SRC/sproutvideo.com/index.html",
+		"/C/Users/lansolo99/Downloads/icomoon/demo-files/demo.css",
+		"/C/Users/lansolo99/Downloads/icomoon/demo-files/demo.js",
+		"/D/DRIVE/00 CURRENT WORKS/NIVEAUMOINS1/HTML/css/bootstrap.css",
+		"/D/DRIVE/00 CURRENT WORKS/NIVEAUMOINS1/HTML/css/style.css",
+		"/D/DRIVE/00 CURRENT WORKS/NIVEAUMOINS1/HTML/css/bootstrap-theme.css",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/EPS/svg/logo_sg_ba.svg",
+		"/C/Users/lansolo99/Desktop/logo_sg_ba-01.svg",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/index_0.html",
+		"/C/Users/lansolo99/Downloads/Video Hosting for Businesses - SproutVideo.html",
+		"/C/Users/lansolo99/Downloads/Video Hosting for Businesses - SproutVideo.htm",
+		"/D/DATA/04 DOWNLOADS/test/index.html",
+		"/D/DATA/04 DOWNLOADS/test/sproutvideo.com/index.html",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/SRC/inte_fnac/font/05729794-671d-4a73-a294-f2f447795319.svg",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/css/normalize.css",
+		"/C/Users/lansolo99/Downloads/ModalWindowEffects/ModalWindowEffects/index.html",
+		"/C/Users/lansolo99/Downloads/ModalWindowEffects/ModalWindowEffects/js/modalEffects.js",
+		"/C/Users/lansolo99/Downloads/ModalWindowEffects/ModalWindowEffects/css/component.css",
+		"/C/Users/lansolo99/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/lansolo99/Downloads/ModalWindowEffects/ModalWindowEffects/js/modernizr.custom.js",
+		"/C/Users/lansolo99/Downloads/ModalWindowEffects/ModalWindowEffects/js/classie.js",
+		"/C/Users/lansolo99/AppData/Roaming/Sublime Text 2/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/lansolo99/Downloads/Semantic-v1.1.1/Semantic-v1.1.1/Site/index - custom_01.html",
+		"/C/Users/lansolo99/Desktop/global.css",
+		"/C/Users/lansolo99/Desktop/ui-min.css",
+		"/D/DRIVE/00 CURRENT WORKS/NIVEAUMOINS1/HTML/index.html",
+		"/C/Users/lansolo99/Desktop/product.css",
+		"/D/DRIVE/00 CURRENT WORKS/NIVEAUMOINS1/HTML/index3.html",
+		"/C/Users/lansolo99/Downloads/Semantic-v1.1.1/Semantic-v1.1.1/Site/about.html",
+		"/C/Users/lansolo99/Downloads/Semantic-v1.1.1/Semantic-v1.1.1/Site/assets/css/style.css",
+		"/C/Users/lansolo99/Downloads/Semantic-v1.1.1/Semantic-v1.1.1/Site/contact.html",
+		"/D/DRIVE/00 CURRENT WORKS/NIVEAUMOINS1/product.tpl",
+		"/C/Users/lansolo99/Desktop/blockcms.tpl",
+		"/C/Users/lansolo99/Desktop/cms.tpl",
+		"/C/Users/lansolo99/Desktop/footer.tpl",
+		"/C/Users/lansolo99/Desktop/header_last.tpl",
+		"/C/Users/lansolo99/Desktop/eureka_pro.tpl",
+		"/C/Users/lansolo99/Desktop/category.tpl",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT L/GROUPAMA/BANNIERE PARISIENNE 2015/FLA/countdown.xml",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT L/GROUPAMA/BANNIERE PARISIENNE 2014/FLA/countdown.xml",
+		"/C/Users/lansolo99/Downloads/parisienne/countdown.xml",
+		"/C/Users/lansolo99/Desktop/category-cms-tree-branch.tpl",
+		"/C/Users/lansolo99/Desktop/signature_eureka_pro_marc.html",
+		"/C/Users/lansolo99/Desktop/signature_eureka_anne-marie.html",
+		"/C/Users/lansolo99/Downloads/simplecountdown/simplecountdown_upgraded3/index2_edgeActions.js",
+		"/C/Users/lansolo99/Desktop/qssd.html",
+		"/C/Users/lansolo99/AppData/Local/2BrightSparks/SyncBackPro/Logs/3_LAN_Log_Page1.html",
+		"/C/Users/lansolo99/AppData/Local/2BrightSparks/SyncBackPro/Logs/LAN_Log_Page1.html",
+		"/D/DRIVE/00 CURRENT WORKS/MTFBWY/HTML/css/bootstrap.css",
+		"/D/DRIVE/00 CURRENT WORKS/MTFBWY/HTML/css/morphing_form.css",
+		"/D/DATA/03 RESSOURCES/SOFTWARE/CINEMA 4D/PLUGINS/GreyScaleGorilla Texture Kit Pro 3.0/GSG_TKP_3_0/INSTALL_README",
+		"/D/DATA/01 WORKS/ARTWORKS/Buse Land EP#01/SRC/xplode/help/fr/index.html",
+		"/C/Users/lansolo99/AppData/Local/2BrightSparks/SyncBackPro/Logs/1_LAN_Log_Page1.html",
+		"/C/Users/lansolo99/Downloads/Fotolia_78360338_Subscription_V.svg",
+		"/D/DRIVE/00 CURRENT WORKS/MTFBWY/HTML/index13.html",
+		"/D/DRIVE/00 CURRENT WORKS/MTFBWY/HTML/index14.html",
+		"/D/DRIVE/00 CURRENT WORKS/MTFBWY/SRC/pulsate ie/test.html",
+		"/C/Users/lansolo99/Downloads/fontie_14312720954430/fontie_14312720954430/Moon-Bold.html",
+		"/C/Users/lansolo99/Downloads/fontie_14312720954430/fontie_14312720954430/Moon-Bold.css",
+		"/D/DRIVE/00 CURRENT WORKS/MTFBWY/HTML/js/main.js",
+		"/C/Users/lansolo99/Downloads/fontie_14312725945004/fontie_14312725945004/Moon-Light.css",
+		"/D/DRIVE/00 CURRENT WORKS/GROUPAMA/BANNIERE DEV DURABLE/FLA/banniere_dd_648x130_02.html",
+		"/D/DRIVE/00 CURRENT WORKS/MTFBWY/HTML/index10.html",
+		"/D/DRIVE/00 CURRENT WORKS/MTFBWY/HTML/index15.html",
+		"/C/Users/lansolo99/Downloads/morphing-modal-window/morphing-modal-window/css/morphing_form.css",
+		"/C/Users/lansolo99/Downloads/morphing-modal-window/morphing-modal-window/index.html",
+		"/C/Users/lansolo99/Downloads/morphing-modal-window/morphing-modal-window/css/style.css",
+		"/D/DRIVE/00 CURRENT WORKS/MTFBWY/HTML/index4.html",
+		"/C/Users/lansolo99/Downloads/jquery-ui-1.11.4.custom/jquery-ui-1.11.4.custom/index.html",
+		"/D/DRIVE/00 CURRENT WORKS/NIVEAUMOINS1/HTML/index2.html",
+		"/D/DRIVE/00 CURRENT WORKS/MTFBWY/EPS/mtfbwy+light_saber-01.svg",
+		"/D/DRIVE/00 CURRENT WORKS/MTFBWY/EPS/Light Saber_06-01.svg",
+		"/D/DRIVE/00 CURRENT WORKS/MTFBWY/EPS/mtfbwy_v3-01.svg",
+		"/D/DRIVE/00 CURRENT WORKS/GROUPAMA/BANNIERE PEE/FLA/banniere_pee_v2_01.html",
+		"/D/DRIVE/00 CURRENT WORKS/GROUPAMA/BANNIERE PEE/FLA/banniere_pee_01.html",
+		"/D/DRIVE/00 CURRENT WORKS/GROUPAMA/BANNIERE PEE/FLA/banniere_pee_v1_02.html",
+		"/D/DRIVE/00 CURRENT WORKS/GROUPAMA/BANNIERE PEE/FLA/banniere_pee_v2_02.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"D:\\DRIVE\\00 CURRENT WORKS\\EUREKA\\EUREKA.pf\\Maintenance\\HTML,D:\\DATA\\01 WORKS\\REVDECO\\REVDECO.NET\\prestashop",
+			"D:\\DRIVE\\00 CURRENT WORKS\\EUREKA\\EUREKA.pf\\Maintenance\\HTML"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"background",
+			"jazz",
+			"chrono",
+			"font-family:\"Nexa_Regular\";",
+			"nexa",
+			"rwd",
+			"clear",
+			"rwd",
+			"groupeCtaPrincipal",
+			"cta",
+			"h1",
+			"h2",
+			"lesplu",
+			"banner",
+			"rwd",
+			"banner",
+			"		\n",
+			"s1",
+			"logo_sg",
+			"box",
+			"box-siz",
+			"header a.logo_sg svg",
+			"svg-responsive",
+			"banner",
+			"z-index",
+			"rdvthumb02",
+			"js",
+			"BTN",
+			"divid",
+			"icon-chart",
+			"baseline",
+			"stroked",
+			"icon",
+			"section",
+			"br",
+			"@media screen",
+			"@screen",
+			"css",
+			"HELVE",
+			"src:url(\"../font/77cb0adc-646b-4830-8f4c-3db7adbb8dc4.eot?#iefix\") format(\"eot\"),url(\"../font/631bf655-ced5-4627-93d4-89d1bdfe3014.woff\") format(\"woff\"),url(\"../font/96740819-d387-437f-b739-9778ddc5e5b9.ttf\") format(\"truetype\"),url(\"../font/05729794-671d-4a73-a294-f2f447795319.svg#05729794-671d-4a73-a294-f2f447795319\") format(\"svg\");\n",
+			"margin:0",
+			"p",
+			"shadow",
+			"body",
+			"page-wrapper",
+			"section",
+			"wrapper",
+			"modal",
+			"li div.productbox",
+			"product\nproductbox",
+			"productbox",
+			"produc",
+			"nav",
+			"store_convenient",
+			"intro",
+			"outline",
+			"out",
+			"outline",
+			"logo",
+			"286",
+			"outline",
+			"rower",
+			"fami",
+			"font-size",
+			"font",
+			"cd-modal-content",
+			"jquery-ui",
+			"svgPaths",
+			"H9",
+			"tagueule",
+			"finalLetterAdditionnals",
+			"baseline",
+			"A_1",
+			"letterAdditionnals",
+			"log",
+			"st6",
+			"svgFinal",
+			"final",
+			"animation4"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "landing_credit_15.html",
+					"settings":
+					{
+						"buffer_size": 63906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								722,
+								722
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "landing_epargne_16.html",
+					"settings":
+					{
+						"buffer_size": 62267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53542,
+								53542
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 8875.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "landing_jazz_17.html",
+					"settings":
+					{
+						"buffer_size": 63429,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53371,
+								53371
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 9057.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 14375,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4143,
+								4143
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3910.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true
+}

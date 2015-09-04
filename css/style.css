@@ -146,7 +146,7 @@ header a.logo_sa img{
 	display: inline-block;
 	float:right;
 	color:red;
-	width: 314px;
+	width: 183px;
 	height: 70px;
 	margin:-2px 13px 17px 0;
 	}    
@@ -191,7 +191,7 @@ section{
 }
 
 #offre p.tagline1 .s1 sup{
-	font-size: 20px;
+	font-size: 0.5em;
 }
 
 #offre p.tagline1 .s2{
@@ -246,7 +246,7 @@ section{
 
 #offre .span_2_of_3 p.tagline1 sup
 {
-	font-size: 17px;
+	font-size: 0.5em;
 }
 
 .blendedBackground{
@@ -419,12 +419,15 @@ section{
 
 
 #bloc_exemples, #bloc_avantages{
-	margin: 16px 0px 0px 0px;
+	margin: 40px 0px 0px 0px;
 	padding: 20px;	
 	border: 1px solid #cccccc;
 	color: #000000;
 	font-size: 16px;
 }
+
+
+
 
 #bloc_exemples p, #bloc_avantages p{
 	line-height: 1.8em;
@@ -438,9 +441,18 @@ section{
 	font-size:20px;
 }
 
+
+
+
+
+
+
 #bloc_exemples p.mention{
 	display:block;
 	margin: 10px 0;
+	font-size:22px;
+	font-weight: bold;
+	line-height: 1.5em;
 }
 
 #bloc_avantages{
@@ -457,14 +469,20 @@ section .title{
 	text-align: center;
 	margin: 30px 16px 5px 16px;
 	font-family:"Nexa_Bold";
-	font-size: 20px;
-	
+	font-size: 20px;	
 }
 
+section .title sup {
+	font-size: 0.6em;
+}
 
 .divider{
 	margin-top:45px;
 	height:80px;
+}
+
+#dividerLesPlusJazz{
+	margin-top:15px;
 }
 
 
@@ -544,6 +562,8 @@ section h1{
 	color: #d4202f;
 }
 
+.col_avantages h2 sup {font-size: 0.5em;}
+
 .icon-decouvert_autorise:before {
 	content: "\e604";
 	font-size: 45px;
@@ -613,7 +633,7 @@ section h1{
 	background: #f2f2f2;
 	padding: 25px;
 	height: auto;
-	min-height: 250px;
+	min-height: 272px;
 }
 
 
@@ -621,6 +641,10 @@ section h1{
 	font-family:"Nexa_Bold";
 	font-size: 24px;
 	color:#e32231;
+}
+
+#bonsplans .col h2 sup{
+	font-size: 0.5em;
 }
 
 #bonsplans .col h3{
@@ -637,6 +661,10 @@ section h1{
 	font-size: 15px;
 	line-height: 1.45em;
 	margin-top: 10px;
+}
+
+#bonsplans .col h2 span.smaller{
+	font-size: 0.7em;
 }
 
 #bonsplans .col .label{
@@ -791,14 +819,21 @@ header{
 
 #bloc_exemples{
 	margin: 16px;
+	margin-top: 40px;
 }
 
 #bloc_avantages{
 	width: 80%;
 }
 
+
+
 .divider{
 	margin: 6% 16px 0% 16px;
+}
+
+#dividerLesPlusJazz{
+	margin-top:4%;
 }
 
 
@@ -891,7 +926,7 @@ footer .links{
 
 #bonsplans .col{
     height: auto;
-	min-height: 350px;
+	min-height: 370px;
 }
 
 }
@@ -948,7 +983,7 @@ header a.logo_sa img.large{
 }
 
 #offre p.tagline1 .s1 sup, #offre p.tagline1 .s1_smaller sup, #offre .span_2_of_3 p.tagline1 sup{
-	font-size: 4vw;
+	font-size: 0.5em;
 }
 
 #offre p.tagline1 .s2{
@@ -1007,6 +1042,11 @@ header a.logo_sa img.large{
 	font-size: 6vw;
 }
 
+#bloc_exemples p.mention{
+	font-size: 8vw;
+	line-height: 10vw;
+}
+
 #bloc_avantages{
 	width: 90%;
 }
@@ -1016,7 +1056,9 @@ header a.logo_sa img.large{
 .col_avantages {  margin: 6% 0 1% 0%; }
 .span_3_of_3, .span_2_of_3, .span_1_of_3 { width: 100%; }
 .span_2_of_2, .span_1_of_2  {width: 100%;}
-	
+
+
+
 #bonsplans .span_1_of_3 { width: 100%; }
 #bonsplans .col{height: auto; min-height:0;}
 

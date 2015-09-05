@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"padd",
+				"padding-bottom"
+			],
+			[
 				"marg",
 				"margin"
 			],
@@ -72,26 +76,26 @@
 	"buffers":
 	[
 		{
-			"file": "landing_credit_16.html",
+			"file": "landing_credit_18.html",
 			"settings":
 			{
-				"buffer_size": 64015,
+				"buffer_size": 64063,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "landing_epargne_17.html",
+			"file": "landing_epargne_18.html",
 			"settings":
 			{
-				"buffer_size": 62267,
+				"buffer_size": 63200,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "landing_jazz_17.html",
+			"file": "landing_jazz_18.html",
 			"settings":
 			{
-				"buffer_size": 63456,
+				"buffer_size": 64509,
 				"line_ending": "Windows"
 			}
 		},
@@ -99,7 +103,7 @@
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 15153,
+				"buffer_size": 15472,
 				"line_ending": "Windows"
 			}
 		}
@@ -156,8 +160,11 @@
 	},
 	"file_history":
 	[
-		"/C/Users/lansolo99/Downloads/responsivegridsystem/css/2cols.css",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/landing_credit_16.html",
 		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/landing_jazz_18.html",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/landing_epargne_18.html",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/landing_jazz_17.html",
+		"/C/Users/lansolo99/Downloads/responsivegridsystem/css/2cols.css",
 		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/.git/config",
 		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/.git/index",
 		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/.git/description",
@@ -280,10 +287,7 @@
 		"/C/Users/lansolo99/Downloads/morphing-modal-window/morphing-modal-window/css/morphing_form.css",
 		"/C/Users/lansolo99/Downloads/morphing-modal-window/morphing-modal-window/index.html",
 		"/C/Users/lansolo99/Downloads/morphing-modal-window/morphing-modal-window/css/style.css",
-		"/D/DRIVE/00 CURRENT WORKS/MTFBWY/HTML/index4.html",
-		"/C/Users/lansolo99/Downloads/jquery-ui-1.11.4.custom/jquery-ui-1.11.4.custom/index.html",
-		"/D/DRIVE/00 CURRENT WORKS/NIVEAUMOINS1/HTML/index2.html",
-		"/D/DRIVE/00 CURRENT WORKS/MTFBWY/EPS/mtfbwy+light_saber-01.svg"
+		"/D/DRIVE/00 CURRENT WORKS/MTFBWY/HTML/index4.html"
 	],
 	"find":
 	{
@@ -303,6 +307,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"#bloc_exemples",
+			"sup",
+			"divider",
+			"bloc_avantages",
+			"label",
+			"mention",
 			"sa",
 			"large",
 			"bloc_avant",
@@ -404,23 +414,23 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "landing_credit_16.html",
+					"file": "landing_credit_18.html",
 					"settings":
 					{
-						"buffer_size": 64015,
+						"buffer_size": 64063,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								56220,
-								56220
+								722,
+								722
 							]
 						],
 						"settings":
@@ -428,25 +438,25 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 10087.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "landing_epargne_17.html",
+					"file": "landing_epargne_18.html",
 					"settings":
 					{
-						"buffer_size": 62267,
+						"buffer_size": 63200,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								723,
-								723
+								56697,
+								56697
 							]
 						],
 						"settings":
@@ -454,25 +464,25 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 9913.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "landing_jazz_17.html",
+					"file": "landing_jazz_18.html",
 					"settings":
 					{
-						"buffer_size": 63456,
+						"buffer_size": 64509,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								720,
-								720
+								56557,
+								56557
 							]
 						],
 						"settings":
@@ -480,7 +490,7 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 10578.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -490,15 +500,15 @@
 					"file": "css/style.css",
 					"settings":
 					{
-						"buffer_size": 15153,
+						"buffer_size": 15472,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9904,
-								9904
+								6951,
+								6965
 							]
 						],
 						"settings":
@@ -507,7 +517,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 11339.0,
+						"translation.y": 7634.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

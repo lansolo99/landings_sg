@@ -84,6 +84,14 @@
 			}
 		},
 		{
+			"file": "test.html",
+			"settings":
+			{
+				"buffer_size": 269,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "landing_epargne_18.html",
 			"settings":
 			{
@@ -160,6 +168,10 @@
 	},
 	"file_history":
 	[
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/.git/COMMIT_EDITMSG",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/test.html",
+		"/C/Users/lansolo99/Downloads/2-Vol-Documents et justificatifs-2-2015-09-11-1380168662 - M9MX12 2L72QA.eml",
+		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/landing_test.html",
 		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/landing_credit_16.html",
 		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/landing_jazz_18.html",
 		"/D/DRIVE/00 CURRENT WORKS/FREE VINCENT I/INTE LANDING SG/HTML/landing_epargne_18.html",
@@ -283,11 +295,7 @@
 		"/C/Users/lansolo99/Downloads/fontie_14312725945004/fontie_14312725945004/Moon-Light.css",
 		"/D/DRIVE/00 CURRENT WORKS/GROUPAMA/BANNIERE DEV DURABLE/FLA/banniere_dd_648x130_02.html",
 		"/D/DRIVE/00 CURRENT WORKS/MTFBWY/HTML/index10.html",
-		"/D/DRIVE/00 CURRENT WORKS/MTFBWY/HTML/index15.html",
-		"/C/Users/lansolo99/Downloads/morphing-modal-window/morphing-modal-window/css/morphing_form.css",
-		"/C/Users/lansolo99/Downloads/morphing-modal-window/morphing-modal-window/index.html",
-		"/C/Users/lansolo99/Downloads/morphing-modal-window/morphing-modal-window/css/style.css",
-		"/D/DRIVE/00 CURRENT WORKS/MTFBWY/HTML/index4.html"
+		"/D/DRIVE/00 CURRENT WORKS/MTFBWY/HTML/index15.html"
 	],
 	"find":
 	{
@@ -414,7 +422,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -445,6 +453,32 @@
 				},
 				{
 					"buffer": 1,
+					"file": "test.html",
+					"settings":
+					{
+						"buffer_size": 269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								249,
+								249
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "landing_epargne_18.html",
 					"settings":
 					{
@@ -470,7 +504,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "landing_jazz_18.html",
 					"settings":
 					{
@@ -496,7 +530,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "css/style.css",
 					"settings":
 					{
